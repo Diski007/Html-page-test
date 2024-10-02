@@ -1,0 +1,34 @@
+form{
+margin-left: 15px;
+}
+
+div{
+ margin: 15px;
+}
+
+
+div input{
+margin-left: 80px;
+}
+
+.address input{
+ margin-left: 65px;
+}
+
+.hobbies input{
+ margin-left: 74px;
+}
+
+select{
+ margin-left: 68px;
+}
+
+.message textarea{
+ margin-left: 65px;
+ 
+}
+
+footer{
+
+margin-left: 155px;
+}
